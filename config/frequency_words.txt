@@ -59,6 +59,11 @@ Microsoft
 NVIDIA
 黄仁勋
 
+苹果
+APPLE
+
+macbook
+
 AMD
 
 谷歌
@@ -111,3 +116,14 @@ ai
 宇宙
 飞船
 航空
+
+美联储
+Federal Reserve
+比特币
+BTC
+加密货币
+cryptocurrency 
+美股
+US stocks
+美债
+US bonds
